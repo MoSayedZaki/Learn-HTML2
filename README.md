@@ -75,4 +75,5 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 </p>
-  
+
+  thank you for accepting me
